@@ -1,4 +1,4 @@
-# ELTitulo(hashtag para titulo)
+# EL Titulo(hashtag para titulo)
 
 ## Subtitulo
 
@@ -32,6 +32,8 @@ codigo
 > > > Cita 3
 
 # Repositorio de ejercicios de JS
+
+# Repositorio de ejercicios de JS para lerdos
 
 La funcion `promt()` es para solicitar datos al usuario
 
