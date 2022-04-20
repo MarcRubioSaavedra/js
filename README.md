@@ -1,4 +1,4 @@
-# ELTitulo(hashtag para titulo)
+# EL Titulo(hashtag para titulo)
 
 ## Subtitulo
 
