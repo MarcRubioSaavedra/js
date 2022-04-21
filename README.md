@@ -56,3 +56,4 @@ La funcion `promt()` es para solicitar datos al usuario
 ### ALGO
 
 `isNAN()`
+# publico
